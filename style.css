@@ -3,7 +3,7 @@
     src: url('assets/fonts/agane_65_bold-webfont.woff2') format('woff2'),
         url('assets/fonts/agane_65_bold-webfont.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: normal; color: deeppink;
 
 }
 
@@ -104,7 +104,7 @@ body:before {
         center;
     background-repeat: repeat, repeat;
     background-size: cover, cover;
-    background-color: #ffffff;
+    background-color: hsl(0, 0%, 100%);
 }
 
 body:after {
@@ -213,7 +213,7 @@ p .li {
 }
 
 #text07 {
-    color: #ffffff;
+    color: #fd08c0;
     font-family: 'aganbold', sans-serif;
     letter-spacing: -0.15rem;
     width: 100%;
@@ -223,7 +223,7 @@ p .li {
 }
 
 #text02 {
-    color: #ffffff;
+    color: #fd08c0;
     font-family: 'aganbold', sans-serif;
     letter-spacing: -0.05rem;
     width: 100%;
@@ -233,7 +233,7 @@ p .li {
 }
 
 #text03 {
-    color: #ffffff;
+    color: #fd08c0;
     font-family: 'aganbold', sans-serif;
     letter-spacing: -0.05rem;
     width: 100%;
@@ -253,7 +253,7 @@ p .li {
 }
 
 #text05 {
-    color: #ffffff;
+    color: #fd08c0;
     font-family: 'aganbold', sans-serif;
     letter-spacing: -0.05rem;
     width: 100%;
